@@ -1,8 +1,9 @@
 {
-  "name": "client",
+  "name": "ppanh project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "workspaces":["client"],
   "scripts": {
     "dev": "vite --open",
     "build": "vite build",
